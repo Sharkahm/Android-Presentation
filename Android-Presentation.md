@@ -5,15 +5,15 @@
 ## Gründer, Entwickler, Entwicklung
 
 ---
-## Systemeigenschaften, Versionen (David)
-Abc
+## Systemeigenschaften, Versionen
+
 ---
-## Anwendungsbereich (Nico)
-Abc
+## Anwendungsbereich
+
 ---
-## Erfolg (Rayan)
-Abc
+## Erfolg
+
 ---
-## Vorteile und Nachteile (Bamathy)
-Abc
+## Vorteile und Nachteile 
+
 ---
