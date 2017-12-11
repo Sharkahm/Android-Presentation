@@ -39,7 +39,6 @@
   * Neues Bluetooth-Profil *AVRCP 1.4*
   * *API* für neuronale Netzwerke
   * *API* für Shared Memory
-=======
 ---
 ## Anwendungsbereich
 
