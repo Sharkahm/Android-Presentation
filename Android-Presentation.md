@@ -12,7 +12,13 @@
 
 ---
 ## Erfolg
-
+## Verbreitung
+| Betriebssystem | Prozent |
+|----------------|---------|
+| Android        | 87,5%   |
+| Apple iOS      | 12,1%   |
+| Andere         | 0,3%    |
+Insgesamt 2,5 Milliarden Android Geräte verkauft
 ---
 ## Vorteile und Nachteile 
 
