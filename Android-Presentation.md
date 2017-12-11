@@ -1,18 +1,18 @@
-# Android
-
+# Android (Mirco)
+Abc
 ---
-## Anwendungsbereich
-
+## Gründer, Entwickler, Entwicklung, Versionen (Mirco)
+Abc
 ---
-## Erfolg
-
+## Systemeigenschaften (David)
+Abc
 ---
-## Gründer, Entwickler, Entwicklung(Versionen)
-
+## Anwendungsbereich (Nico)
+Abc
 ---
-## Systemeigenschaften
-
+## Erfolg (Rayan)
+Abc
 ---
-## Vorteile und Nachteile
-
+## Vorteile und Nachteile (Bamathy)
+Abc
 ---
