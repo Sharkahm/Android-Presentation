@@ -11,7 +11,6 @@
 ## Anwendungsbereich
 
 ---
-## Erfolg
 ## Verbreitung
 | Betriebssystem | Prozent |
 |----------------|---------|
