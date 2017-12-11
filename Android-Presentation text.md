@@ -11,8 +11,13 @@ Abc
 ## Anwendungsbereich (Nico)
 Android ist sowohl ein Betriebssystem als auch eine Software welche auf Geräten wie Smartphones, Mobiltelefone, Mediaplayer, Netbooks und Tabletcomputer verwendet wird.
 ---
-## Erfolg (Rayan)
-Abc
+## Verbreitung
+| Betriebssystem | Prozent |
+|----------------|---------|
+| Android        | 87,5%   |
+| Apple iOS      | 12,1%   |
+| Andere         | 0,3%    |
+Insgesamt 2,5 Milliarden Android Geräte verkauft
 ---
 ## Vorteile und Nachteile (Bamathy)
 Abc
