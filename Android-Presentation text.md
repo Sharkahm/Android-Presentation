@@ -9,7 +9,7 @@ Im Herbst 2003 wurde Android von Andy Rubin gegründet. 2005 wurde Android von G
 Abc
 ---
 ## Anwendungsbereich (Nico)
-Abc
+Android ist sowol ein ein Betriebssystem als auch eine Software welche auf Geräten wie Smartphones, Mobiltelefone, Mediaplayer, Netbooks und Tabletcomputer verwendet wird.
 ---
 ## Erfolg (Rayan)
 Abc
